@@ -1,9 +1,9 @@
 # Oscar Enghag
 
 ```
-Civ.ing. Datateknik · LTH (2024–)
-FPGA / SystemVerilog · RISC-V · Quantitative Finance · Systems
-Försvarsmakten A8 · Livgardet
+Civ.ing. Datateknik · LTH (2025–)
+FPGA / SystemVerilog · RISC-V
+Försvarsmakten · Livgardet
 Lund, SE
 ```
 
@@ -23,8 +23,8 @@ Lund, SE
 ### Stack
 
 ```
-Hardware    SystemVerilog · FPGA (Cyclone V) · RISC-V RV32I · CAD
-Systems     C · Linux (Ubuntu/Kali) · minnesnära arkitektur
+Hardware    SystemVerilog · FPGA (Cyclone V) · RISC-V RV32I
+Systems     C · Linux (Ubuntu) · minnesnära arkitektur
 Quant       Python · NumPy · SciPy · options pricing · backtesting
 Web         TypeScript · React · Gatsby · Netlify
 ```
@@ -34,12 +34,12 @@ Web         TypeScript · React · Gatsby · Netlify
 ### Background
 
 ```
-2024–       Datateknik, LTH — algoritmer, systemarkitektur, hårdvara
-            Elektricitetsmekaniker · Försvarsmakten A8 · Livgardet
+2025–       Datateknik, LTH — algoritmer, systemarkitektur, hårdvara
+            Elektricitetsmekaniker · Försvarsmakten · Livgardet
             B2B-försäljning mot Saab, Ericsson, Försvarsmakten
             Internship · Noda Intelligent Systems
 ```
 
 ---
 
-`oscar.enghag@gmail.com`
+`oscarenghag@gmail.com`
