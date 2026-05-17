@@ -13,7 +13,7 @@ Lund, SE
 
 | Project | Stack | Status |
 |---|---|---|
-| [FS Lap Sim](https://github.com/madlad-code/fs-lap-sim) | Python · NumPy · Pacejka | `BUILDING` |
+| FS Lap Simulation | Python · NumPy · Pacejka | `BUILDING` |
 | Option_pricing | Python · Black-Scholes · Monte Carlo | `FUNCTIONAL` |
 | RISC-V | SystemVerilog · FPGA · Quartus | `COURSEWORK` |
 
@@ -33,9 +33,9 @@ Web         TypeScript · React · Vite · Netlify
 
 ```
 2025–       Datateknik, LTH — algoritmer, systemarkitektur, hårdvara
-            Elektricitetsmekaniker · Försvarsmakten · Livgardet
-            B2B-försäljning mot Saab, Ericsson, Alfa Laval
-            Internship 2025 · Noda Intelligent Systems
+2025-       Elektricitetsmekaniker · Försvarsmakten · Livgardet
+2025/2026   B2B-försäljning mot Saab, Ericsson, Jane Street
+2025        Internship · Noda Intelligent Systems
 ```
 
 ---
