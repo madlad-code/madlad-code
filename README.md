@@ -16,7 +16,6 @@ Lund, SE
 | [FS Lap Sim](https://github.com/madlad-code/fs-lap-sim) | Python · NumPy · Pacejka | `building` |
 | Quant Portfolio Engine | Python · Black-Scholes · Monte Carlo | `building` |
 | RISC-V Pipeline | SystemVerilog · FPGA · Quartus | `coursework` |
-| Digital Provenance Platform | TypeScript · B2B | `concept` |
 
 ---
 
@@ -24,7 +23,6 @@ Lund, SE
 
 ```
 Hardware    SystemVerilog · FPGA (Cyclone V) · RISC-V RV32I
-Systems     C · Linux (Ubuntu) · minnesnära arkitektur
 Quant       Python · NumPy · SciPy · options pricing · backtesting
 Web         TypeScript · React · Gatsby · Netlify
 ```
