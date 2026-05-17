@@ -14,8 +14,8 @@ Lund, SE
 | Project | Stack | Status |
 |---|---|---|
 | [FS Lap Sim](https://github.com/madlad-code/fs-lap-sim) | Python · NumPy · Pacejka | `BUILDING` |
-| Quant Portfolio Engine | Python · Black-Scholes · Monte Carlo | `FUNCTIONAL` |
-| RISC-V Pipeline | SystemVerilog · FPGA · Quartus | `COURSEWORK` |
+| Option_pricing | Python · Black-Scholes · Monte Carlo | `FUNCTIONAL` |
+| RISC-V | SystemVerilog · FPGA · Quartus | `COURSEWORK` |
 
 ---
 
