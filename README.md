@@ -3,7 +3,7 @@
 ```
 Civ.ing. Datateknik · LTH (2025–)
 FPGA / SystemVerilog · RISC-V
-Försvarsmakten · Livgardet
+Försvarsmakten · FMTS / Livgardet
 Lund, SE
 ```
 
@@ -13,9 +13,9 @@ Lund, SE
 
 | Project | Stack | Status |
 |---|---|---|
-| [FS Lap Sim](https://github.com/madlad-code/fs-lap-sim) | Python · NumPy · Pacejka | `building` |
-| Quant Portfolio Engine | Python · Black-Scholes · Monte Carlo | `Funktionell` |
-| RISC-V Pipeline | SystemVerilog · FPGA · Quartus | `kursprojekt från digitalteknik` |
+| [FS Lap Sim](https://github.com/madlad-code/fs-lap-sim) | Python · NumPy · Pacejka | `BUILDING` |
+| Quant Portfolio Engine | Python · Black-Scholes · Monte Carlo | `FUNCTIONAL` |
+| RISC-V Pipeline | SystemVerilog · FPGA · Quartus | `COURSEWORK` |
 
 ---
 
@@ -24,7 +24,7 @@ Lund, SE
 ```
 Hardware    SystemVerilog · FPGA (Cyclone V) · RISC-V RV32I
 Quant       Python · NumPy · SciPy · options pricing · backtesting
-Web         TypeScript · React · Gatsby · Netlify
+Web         TypeScript · React · Vite · Netlify
 ```
 
 ---
@@ -34,8 +34,8 @@ Web         TypeScript · React · Gatsby · Netlify
 ```
 2025–       Datateknik, LTH — algoritmer, systemarkitektur, hårdvara
             Elektricitetsmekaniker · Försvarsmakten · Livgardet
-            B2B-försäljning mot Saab, Ericsson, Försvarsmakten
-            Internship · Noda Intelligent Systems
+            B2B-försäljning mot Saab, Ericsson, Alfa Laval
+            Internship 2025 · Noda Intelligent Systems
 ```
 
 ---
