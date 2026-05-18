@@ -13,7 +13,7 @@ Lund, SE
 
 | Project | Stack | Status |
 |---|---|---|
-| FS Lap Simulation | Python · NumPy · Pacejka | `BUILDING` |
+| FS Lap Simulation | Python · NumPy · Pacejka | `FUNCTIONAL` |
 | Option_pricing | Python · Black-Scholes · Monte Carlo | `FUNCTIONAL` |
 | RISC-V | SystemVerilog · FPGA · Quartus | `COURSEWORK` |
 
