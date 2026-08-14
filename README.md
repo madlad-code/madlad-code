@@ -13,7 +13,10 @@ Lund, SE
 
 | Projekt | Stack | Status |
 |---|---|---|
+| [natvakt](https://github.com/madlad-code/natvakt) | Python · scapy · FastAPI · Raspberry Pi | `ACTIVE` |
+| [kuvert](https://github.com/madlad-code/kuvert) | Python · X25519 · ChaCha20 · mDNS | `ACTIVE` |
 | [tender-scan](https://github.com/madlad-code/tender-scan) | Python · SQLite · Docker · TED API | `ACTIVE` |
+| [hardvarulabb](https://github.com/madlad-code/hardvarulabb) | KiCad · INA228 · GitHub Actions | `BUILDING` |
 | [option_pricing](https://github.com/madlad-code/option_pricing) | Python · Black-Scholes · Monte Carlo · IV | `FUNCTIONAL` |
 | [trailing_stop_loss](https://github.com/madlad-code/trailing_stop_loss) | Python · Monte Carlo-studie · Docker | `FUNCTIONAL` |
 | [FS Lap Simulation](https://github.com/madlad-code/FS-Lap-Simulation) | Python · NumPy · fordonsfysik | `BUILDING` |
