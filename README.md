@@ -39,7 +39,6 @@ Web        TypeScript · React · Vite · Netlify
 ```
 2025–       Datateknik, LTH — algoritmer, systemarkitektur, hårdvara
 2023–       Elektricitetsmekaniker · Försvarsmakten · A8/Livgardet
-2025/2026   B2B-försäljning mot Saab, Ericsson, Jane Street
 2025        Internship · Noda Intelligent Systems
 ```
 
